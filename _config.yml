@@ -29,12 +29,12 @@ linkedin_url:  				"http://linkedin.com/in/BhuvaneshRG"
 
 # Theme Settings
 theme_disqus_shortname: 	"PowerDBA Theme"
-theme_google_comments: 		true
+theme_google_comments: 		false
 theme_analytics_id: 		"UA-28282324-1"
 theme_analytics_domain: 	"ecko.me"
-theme_reading_time: 		true
-theme_autoload_comments: 	true
-theme_always_show_nav: 		true
+theme_reading_time: 		false
+theme_autoload_comments: 	false
+theme_always_show_nav: 		false
 
 
 # SASS Settings
