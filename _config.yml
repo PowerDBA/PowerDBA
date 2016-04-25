@@ -4,7 +4,7 @@
 title: 						"PowerDBA"
 email: 						"R.bhuvanesh@outlook.com"
 description: 				"Surf the Databases with Cloud."
-baseurl: 					"http://PowerDBA.github.io"
+baseurl: 					""
 url: 						"http://PowerDBA.github.io"
 logourl: 					"/assets/img/bloglogo.jpg"		
 fa-logo: 					"fa-bookmark-o"
