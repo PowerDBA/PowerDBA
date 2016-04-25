@@ -37,7 +37,7 @@ theme_reading_time: 		true
 theme_autoload_comments: 	true
 theme_always_show_nav: 		true
 
-
+[jekyll-paginate]
 # SASS Settings
 # DO NOT MODIFY
 sass:
